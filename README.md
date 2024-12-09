@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **java**
 
 - 📫 How to reach me **pasinduviraj2399@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
