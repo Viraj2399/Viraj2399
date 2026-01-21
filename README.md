@@ -68,8 +68,8 @@ Teamwork | Continuous Learning | Agile
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj2399)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pasinduviraj2399@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj2399).
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pasinduviraj2399@gmail.com). 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pasinduviraj2399)
 
 ---
@@ -78,6 +78,6 @@ Teamwork | Continuous Learning | Agile
 
 *"Simplifying Cloud-Native Solutions, Step by Step"*  
 
-⭐ Star my repositories if you find them helpful!
+⭐ Star my repositories if you find them helpful! ⭐
 
 </div>
